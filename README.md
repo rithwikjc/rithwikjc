@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my Github. I am currently a graduate student working in the Collective Cognition Lab at the University of Rochester.
+
 <!--
 **rithwikjc/rithwikjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
